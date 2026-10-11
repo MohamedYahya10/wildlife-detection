@@ -1,0 +1,19 @@
+﻿path: C:/Users/ADMIN/.gemini/antigravity/scratch/wildlife_detection/dataset
+
+train: images/train
+val: images/val
+test: images/test
+
+nc: 10
+
+names:
+  0: Elephant
+  1: Tiger
+  2: Lion
+  3: Leopard
+  4: Bear
+  5: Deer
+  6: Giraffe
+  7: Zebra
+  8: Wolf
+  9: Rhinoceros
